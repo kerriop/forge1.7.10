@@ -1,10 +1,52 @@
-[00:21:38] [main/INFO]: Setting user: Player437
-[00:21:42] [Client thread/INFO]: LWJGL Version: 2.9.1
-[00:22:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod
-[00:22:10] [Sound Library Loader/INFO]: Sound engine started
-[00:22:49] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[00:22:49] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[00:22:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod
-[00:22:51] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[00:22:51] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[00:22:52] [Sound Library Loader/INFO]: Sound engine started
+[14:14:07] [main/INFO]: Setting user: Player561
+[14:14:09] [Client thread/INFO]: LWJGL Version: 2.9.1
+[14:14:23] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mod for Dima
+[14:14:24] [Sound Library Loader/INFO]: Sound engine started
+[14:14:27] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[14:14:27] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[14:14:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mod for Dima
+[14:14:28] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[14:14:28] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[14:14:29] [Sound Library Loader/INFO]: Sound engine started
+[14:14:34] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[14:14:34] [Server thread/INFO]: Generating keypair
+[14:14:34] [Server thread/INFO]: Preparing start region for level 0
+[14:14:35] [Server thread/INFO]: Changing view distance to 12, from 10
+[14:14:36] [Server thread/INFO]: Player561[local:E:3f0a5baf] logged in with entity id 142 at (-992.6448048238822, 4.0, -381.0548301583275)
+[14:14:36] [Server thread/INFO]: Player561 присоединился к игре
+[14:15:35] [Client thread/INFO]: [CHAT] Неизвестная команда. Напишите /help для просмотра списка команд
+[14:15:40] [Server thread/INFO]: [Player561: Установлено время: 0]
+[14:15:40] [Client thread/INFO]: [CHAT] Установлено время: 0
+[14:15:48] [Server thread/INFO]: [Player561: Установлено время: 13000]
+[14:15:48] [Client thread/INFO]: [CHAT] Установлено время: 13000
+[14:16:01] [Server thread/INFO]: [Player561: Установлено время: 1000]
+[14:16:01] [Client thread/INFO]: [CHAT] Установлено время: 1000
+[14:16:04] [Server thread/INFO]: Player561 заработал достижение [Проверить карманы]
+[14:16:05] [Client thread/INFO]: [CHAT] Player561 заработал достижение [Проверить карманы]
+[14:18:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6283ms behind, skipping 125 tick(s)
+[14:18:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7575ms behind, skipping 151 tick(s)
+[14:21:21] [Server thread/WARN]: Skipping Entity with id Minecart:ender_dragon
+[14:21:21] [Server thread/INFO]: [Player561: Не удается вызвать объект]
+[14:21:21] [Client thread/INFO]: [CHAT] Не удается вызвать объект
+[14:21:24] [Server thread/INFO]: Saving and pausing game...
+[14:21:24] [Server thread/INFO]: Saving chunks for level 'Новый мир'/Overworld
+[14:21:24] [Server thread/INFO]: Saving chunks for level 'Новый мир'/Nether
+[14:21:24] [Server thread/INFO]: Saving chunks for level 'Новый мир'/The End
+[14:21:34] [Client thread/INFO]: [CHAT] /setblock, /setworldspawn
+[14:21:49] [Server thread/INFO]: [Player561: Блок размещен]
+[14:21:49] [Client thread/INFO]: [CHAT] Блок размещен
+[14:22:09] [Server thread/INFO]: [Player561: Блок размещен]
+[14:22:09] [Client thread/INFO]: [CHAT] Блок размещен
+[14:22:37] [Server thread/INFO]: [Player561: Блок размещен]
+[14:22:37] [Client thread/INFO]: [CHAT] Блок размещен
+[14:25:49] [Server thread/INFO]: Saving and pausing game...
+[14:25:49] [Server thread/INFO]: Saving chunks for level 'Новый мир'/Overworld
+[14:25:49] [Server thread/INFO]: Saving chunks for level 'Новый мир'/Nether
+[14:25:49] [Server thread/INFO]: Saving chunks for level 'Новый мир'/The End
+[14:25:50] [Server thread/INFO]: Stopping server
+[14:25:50] [Server thread/INFO]: Saving players
+[14:25:50] [Server thread/INFO]: Saving worlds
+[14:25:50] [Server thread/INFO]: Saving chunks for level 'Новый мир'/Overworld
+[14:25:50] [Server thread/INFO]: Saving chunks for level 'Новый мир'/Nether
+[14:25:50] [Server thread/INFO]: Saving chunks for level 'Новый мир'/The End
+[14:25:51] [Client thread/INFO]: Stopping!
